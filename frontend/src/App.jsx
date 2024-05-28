@@ -10,6 +10,8 @@ import HomePage from "./pages/Home";
 import BlogsPage from "./pages/Blogs";
 import BlogPage from "./pages/Blog";
 
+//comment test
+
 const routes = [
   {
     path: "",
